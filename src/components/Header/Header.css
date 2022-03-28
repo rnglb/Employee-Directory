@@ -1,0 +1,7 @@
+#outButton{
+    float: right;
+    border-radius: 5px;
+}
+h2,button{
+    display: inline;
+}
